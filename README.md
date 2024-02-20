@@ -1,1 +1,3 @@
 # Augmented-Reality
+
+This Python script employs the OpenCV library to create a real-time "invisibility cloak" effect. Using a webcam feed, it captures the current frame, detects the color red in the frame, and replaces it with a predefined background image. The script enhances mask accuracy through morphological operations, resulting in a dynamic and interactive invisible cloak effect. By continuously updating the frame, the program creates a seamless and visually appealing illusion of an invisible cloak. The script concludes when the user presses 'q'. This project showcases the power of computer vision and provides a playful demonstration of real-time image manipulation.
